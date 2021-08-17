@@ -4,6 +4,14 @@
   text-align: center;
 }
 
+.all-button{
+  border-radius: 20px;
+}
+
+.normal-button{
+  padding: 13px;
+}
+
 .basic-button {
   background-color: #008cba;
   color: white;
@@ -28,7 +36,7 @@
 }
 
 .border-button-model:hover {
-  border: 4px solid greenyellow;
+  border: 4px solid rgb(2, 255, 192);
 }
 
 .border-button {
